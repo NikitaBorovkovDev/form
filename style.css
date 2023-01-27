@@ -1,0 +1,6 @@
+.form{
+    background-color: rgb(143, 140, 140);
+}
+input::placeholder {
+    color: #000;
+}
